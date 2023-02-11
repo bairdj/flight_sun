@@ -1,0 +1,2 @@
+skyfield~=1.45
+airportsdata~=20221121
